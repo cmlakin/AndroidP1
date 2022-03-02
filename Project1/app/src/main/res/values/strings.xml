@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SP2020</string>
+    <string name="u">U</string>
+    <string name="course1lines"><b><i>Android Apps</i></b>\nCMPSCI4020
+            \n4020\n12 Enrolled\nT/TH</string>
+    <string name="course2lines"><b><i>System Programming and Tools</i></b>\nCMPSCI2750
+            \n2750\n10 Enrolled\nM/W</string>
+    <string name="course3lines"><b><i>Web Programming</i></b>\nCMPSCI3010
+            \n3010\n12 Enrolled\nOnline</string>
+    <string name="course4lines"><b><i>Design and Analysis of Algorithms</i></b>\nCMPSCI3130
+            \n3130\n8 Enrolled\nT/TH</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="unknown">U</string>
+    <string name="absent">A</string>
+    <string name="late">L</string>
+    <string name="present">P</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="attendance_rateP" formatted="false"><b>Present rate: %s%%</b></string>
+    <string name="attendance_rateL" formatted="false"><b>Late rate: %s%%</b></string>
+    <string name="attendance_rateA" formatted="false"><b>Absent rate: %s%%</b></string>
+    <string name="attendance_rateU" formatted="true"><b>Not marked rate: %s%%</b></string>
+    <string name="current_classes">Current Classes:</string>
+</resources>

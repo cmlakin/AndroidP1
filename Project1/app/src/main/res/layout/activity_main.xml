@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/currentClasses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#050505"
+        android:hint="@string/current_classes" />
+
+    <Button
+        android:id="@+id/btnAndroidApps"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginStart="35dp"
+        android:textColor="#0D0D9E"
+        android:text="@string/course1lines" />
+
+    <Button
+        android:id="@+id/btnSysProgTools"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="200dp"
+        android:layout_marginStart="215dp"
+        android:textColor="#9E159E"
+        android:text="@string/course2lines"/>
+
+
+
+</RelativeLayout>
